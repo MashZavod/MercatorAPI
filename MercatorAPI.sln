@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MercatorAPI", "MercatorAPI.csproj", "{A186BE58-C7BA-4CA6-8297-32193555A064}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A186BE58-C7BA-4CA6-8297-32193555A064}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A186BE58-C7BA-4CA6-8297-32193555A064}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A186BE58-C7BA-4CA6-8297-32193555A064}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A186BE58-C7BA-4CA6-8297-32193555A064}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {63605359-74A2-4527-9269-E9E47799A7B8}
+	EndGlobalSection
+EndGlobal
